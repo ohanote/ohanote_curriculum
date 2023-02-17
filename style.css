@@ -166,3 +166,11 @@ form button {
   border-radius: 50px;
   border: 0;
 }
+
+.portfolioImg img{
+  width: 100%;
+}
+
+.portfolioImg{
+  padding: 1em;
+}
